@@ -42,7 +42,7 @@ setup(
     author='Jordan Maxwell',
     maintainer='Jordan Maxwell',
     url='https://github.com/NxtStudios/p3d-prite',
-    packages=['p3d_sprite'],
+    packages=['panda3d_sprite'],
     classifiers=[
         'Programming Language :: Python :: 3',
     ])

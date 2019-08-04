@@ -25,7 +25,7 @@ SOFTWARE.
 """
 
 from direct.showbase.ShowBase import ShowBase
-from p3d_sprite import sprite as spritesheet
+from panda3d_sprite import sprite as spritesheet
 
 # Create a new showbase instance
 base = ShowBase()
