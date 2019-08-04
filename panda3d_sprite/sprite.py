@@ -664,7 +664,7 @@ class Sprite2D(object):
         self._padded_img.clear()
         self._node.remove_node()
     
-    def __animation_task(self, task):
+    async def __animation_task(self, task):
         """
         Task used for sprite animation playback
         """
