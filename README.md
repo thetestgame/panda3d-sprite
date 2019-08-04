@@ -4,6 +4,10 @@ Panda3D Sprite
 ==============
 The P3D-Sprite module provides spritesheet capabilities to the Panda3D game engine. This module is a modification and slight redesign of work done by Panda3D forum user ZeroByte. The original forum post can be located <a href="https://discourse.panda3d.org/t/pixel-art-sprite-cards/5142">here</a>
 
+P3D-Sprite can be used to load static sprites, animated sprites, and layered sprites for sprites with clothing options.
+
+<img src="https://i.gyazo.com/acc3939721b932bcff71382ba707b21f.gif" width="400"/>
+
 ## Dependencies
 * Python 3.7
 * Panda3d 1.10.0 or newer
