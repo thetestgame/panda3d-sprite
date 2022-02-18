@@ -34,7 +34,7 @@ The P3D-Sprite module provides spritesheet capabilities to the Panda3D game engi
 """
 
 setup(
-    name='p3d-sprite',
+    name='panda3d_sprite',
     description='Panda3D module provides spritesheet capabilities to the Panda3D game engine',
     long_description=long_description,
     license='MIT',
