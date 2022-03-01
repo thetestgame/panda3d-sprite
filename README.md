@@ -12,6 +12,12 @@ panda3d-sprite can be used to load static sprites, animated sprites, and layered
 
 <img src="https://i.gyazo.com/acc3939721b932bcff71382ba707b21f.gif" width="400"/>
 
+## Install
+
+```
+pip install panda3d-sprite
+```
+
 ## Dependencies
 * Python 3.7
 * Panda3d 1.10.0 or newer
