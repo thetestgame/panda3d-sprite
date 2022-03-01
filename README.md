@@ -6,9 +6,9 @@ Panda3D Sprite
 ![PyPI - Status](https://img.shields.io/pypi/status/panda3d_sprite?style=for-the-badge)
 ![Engine](https://img.shields.io/static/v1?style=for-the-badge&label=Engine&message=Panda3D&color=red)
 
-The P3D-Sprite module provides spritesheet capabilities to the Panda3D game engine. This module is a modification and slight redesign of work done by Panda3D forum user ZeroByte. The original forum post can be located <a href="https://discourse.panda3d.org/t/pixel-art-sprite-cards/5142">here</a>
+The panda3d-sprite module provides spritesheet capabilities to the Panda3D game engine. This module is a modification and slight redesign of work done by Panda3D forum user ZeroByte. The original forum post can be located <a href="https://discourse.panda3d.org/t/pixel-art-sprite-cards/5142">here</a>
 
-P3D-Sprite can be used to load static sprites, animated sprites, and layered sprites for sprites with clothing options.
+panda3d-sprite can be used to load static sprites, animated sprites, and layered sprites for sprites with clothing options.
 
 <img src="https://i.gyazo.com/acc3939721b932bcff71382ba707b21f.gif" width="400"/>
 
