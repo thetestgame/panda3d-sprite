@@ -12,7 +12,7 @@ setup(
     description='Panda3D module provides spritesheet capabilities to the Panda3D game engine',
     long_description=long_description,
     license='MIT',
-    version='1.0.0',
+    version='1.1.0',
     author='Jordan Maxwell',
     maintainer='Jordan Maxwell',
     url='https://github.com/NxtStudios/p3d-prite',
