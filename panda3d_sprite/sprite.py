@@ -564,7 +564,7 @@ class Sprite2D(object):
         Sets the current sprite to the given frame 
         """
 
-        self._frame_nterrupt = True # A flag to tell the animation task to shut it up ur face
+        self._frame_interrupt = True
         self._current_frame = frame
         self.flip_texture()
 
@@ -609,7 +609,7 @@ class Sprite2D(object):
         Flip the sprite on X. If no value given, it will invert the current flipping.
         """
 
-        if val:
+        if val != None:
             self._flip['x'] = val
         else:
             if self._flip['x']:
@@ -622,10 +622,10 @@ class Sprite2D(object):
 
     def flip_y(self, val=None):
         """ 
-        See flip_x
+        Flip the sprite on Y. If no value given, it will invert the current flipping.
         """
 
-        if val:
+        if val != None:
             self._flip['y'] = val
         else:
             if self._flip['y']:
