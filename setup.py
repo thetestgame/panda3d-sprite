@@ -15,7 +15,7 @@ setup(
     version='1.1.0',
     author='Jordan Maxwell',
     maintainer='Jordan Maxwell',
-    url='https://github.com/NxtStudios/p3d-prite',
+    url='https://github.com/NxtStudios/panda3d-sprite',
     packages=['panda3d_sprite'],
     classifiers=[
         'Programming Language :: Python :: 3',
