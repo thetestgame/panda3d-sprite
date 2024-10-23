@@ -3,14 +3,11 @@ try:
 except ImportError:
     from distutils.core import setup
 
-long_description = """
-The P3D-Sprite module provides spritesheet capabilities to the Panda3D game engine. This module is a modification and slight redesign of work done by Panda3D forum user ZeroByte.
-"""
-
 setup(
     name='panda3d_sprite',
     description='Panda3D module provides spritesheet capabilities to the Panda3D game engine',
-    long_description=long_description,
+    long_description=open("README.md", 'r').read(),
+    long_description_content_type='text/markdown',
     license='MIT',
     version='1.1.0',
     author='Jordan Maxwell',

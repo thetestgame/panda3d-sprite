@@ -2,8 +2,8 @@
 
 Panda3D Sprite
 ==============
-![GitHub issues](https://img.shields.io/github/issues/NxtStudios/p3d-sprite?style=for-the-badge)
-![PyPI - Status](https://img.shields.io/pypi/status/panda3d_sprite?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/thetestgame/p3d-sprite?style=for-the-badge)
+![PyPI - Status](https://img.shields.io/pypi/status/panda3d-sprite?style=for-the-badge)
 ![Engine](https://img.shields.io/static/v1?style=for-the-badge&label=Engine&message=Panda3D&color=red)
 
 The panda3d-sprite module provides spritesheet capabilities to the Panda3D game engine. This module is a modification and slight redesign of work done by Panda3D forum user ZeroByte. The original forum post can be located <a href="https://discourse.panda3d.org/t/pixel-art-sprite-cards/5142">here</a>
